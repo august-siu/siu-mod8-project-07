@@ -1,0 +1,6 @@
+Source	Used For/Reason
+1. https://docs.scipy.org/doc/scipy-1.14.0/reference/generated/scipy.linalg.solve_discrete_are.html	SciPy Documentation for Discrete Time Algebraic Riccati Equation
+2. https://python-control.readthedocs.io/en/0.9.4/generated/control.dare.html	Control.dare, Riccati Equation, documentation for control.dare, library that computes the Riccati solution and returns the gain matric G=K
+3. https://cruxponent.com/post/lqr/	Tutorials on LQR and Riccati
+4. https://www.mathworks.com/help/ident/ug/state-space-model-estimation-algorithms.html	System identification, using linear regression to recover a controller gain K/MathWorks/MatLab
+5. https://baggepinnen.github.io/ControlSystemIdentification.jl/stable/ss/	System identification, subspace methods
